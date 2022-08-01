@@ -6,8 +6,8 @@ This was a Final Project I completed in Fall of 2020 for an elective CS course t
 <hr>
 <p><b> Table of Contents </b></p>
 
-[Background](https://github.com/ashleyjmaximilien/GameOfLifeSimulator#background)<br>
-[Installation](https://github.com/ashleyjmaximilien/GameOfLifeSimulator/#installation)<br>
+[Background](https://github.com/ashleyjmaximilien/GameOfLifeSimulator/#Background)<br>
+[Installation](https://github.com/ashleyjmaximilien/GameOfLifeSimulator/#Installation)</br>
 [Usage](https://github.com/ashleyjmaximilien/GameOfLifeSimulator/#Usage)
 
 <h2>Background</h2>

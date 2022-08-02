@@ -21,7 +21,7 @@ particular cell depends on the eight neighbors that are vertically, horizontally
 
 • A live cell with two or three live neighbors will live in the next generation.
 
-• A dead cell with exactly three live neighbors will become a live cell in the next generation (reproduction).
+• A dead cell with exactly three live neighbors will live in the next generation (reproduction).
 
 • A live cell with more than three live neighbors will die in the next generation (overpopulation).
 ```

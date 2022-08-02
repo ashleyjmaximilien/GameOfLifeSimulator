@@ -6,9 +6,9 @@ This was a Final Project I completed in Fall of 2020 for an elective CS course t
 <hr>
 <p><b> Table of Contents </b></p>
 
-[Background](https://github.com/ashleyjmaximilien/GameOfLifeSimulator/#Background)<br>
-[Installation](https://github.com/ashleyjmaximilien/GameOfLifeSimulator/#Installation)</br>
-[Usage](https://github.com/ashleyjmaximilien/GameOfLifeSimulator/#Usage)
+[Background](https://github.com/ashleyjmaximilien/GameOfLifeSimulator/#background)<br>
+[Installation](https://github.com/ashleyjmaximilien/GameOfLifeSimulator/#installation)</br>
+[Usage](https://github.com/ashleyjmaximilien/GameOfLifeSimulator/#usage)
 
 <h2>Background</h2>
 <p><i>"Conway's Game of Life"</i>, or more simply <i>"Life"</i>, is a cellular automaton created by mathematician John Horton Conway. <i>Life</i> occurs in an infinite 
